@@ -13,7 +13,7 @@
 # les listes
 
 1. RaZe Community
-   1.baba
+   1. baba
 1. baba
 
 - baba
