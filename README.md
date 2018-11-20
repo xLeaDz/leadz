@@ -22,4 +22,4 @@
   [tamere](https://fr-fr.facebook.com/)
 
 <a name="ancre">
-[retour en haut(*top)]
+[retour en haut](#top)
