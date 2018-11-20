@@ -33,4 +33,4 @@ _tamere_
 
 ~~barré~~
 
-`bloc de code`
+`~~barré~~`
