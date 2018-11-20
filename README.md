@@ -21,7 +21,7 @@
 1. baba
 
 - texte4
-  [tamere](https://fr-fr.facebook.com/)
+  [FB](https://fr-fr.facebook.com/)
 
 <a name="ancre"></a>
 
