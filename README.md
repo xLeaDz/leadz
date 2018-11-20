@@ -35,7 +35,7 @@ _tamere_
 
 `~~barré~~`
 
-[Facebook](https://fr-fr.facebook.com/){.btn .btn-default}
+[Default](#){.btn .btn-default}
 [Primary](#){.btn .btn-primary}
 [Info](#){.btn .btn-info}
 [Success](#){.btn .btn-success}
