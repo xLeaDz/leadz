@@ -32,3 +32,5 @@ _tamere_
 **wsssh**
 
 ~~barré~~
+
+`bloc de code`
